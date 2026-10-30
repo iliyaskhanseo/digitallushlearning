@@ -1,0 +1,8 @@
+User-agent: *
+Allow: https://iliyaskhanseo.github.io/digitallushlearning/sitemap.xml
+
+Sitemap: https://iliyaskhanseo.github.io/digitallushlearning/sitemap.xml
+
+User-agent: *, GPTBot, Google-Extended, ClaudeBot, PerplexityBot
+Allow: /
+Sitemap: https://iliyaskhanseo.github.io/digitallushlearning/sitemap.xml
